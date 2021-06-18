@@ -1,0 +1,13 @@
+/* .container{
+    display: grid;
+    grid-template-columns: 100px 100px auto 50px 100px; 
+} */
+
+.devices {
+    padding: 1rem;
+    background-color: #DCDCDC;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+
+  }
